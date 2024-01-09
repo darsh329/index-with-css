@@ -1,0 +1,92 @@
+h1{color: brown;}
+h2{color: blanchedalmond;}
+button{
+    color:white;
+    background-color: transparent ;
+}
+body{
+    background-color:#C587A0;
+}
+#here{
+    color: rgb(68, 239, 122);
+}
+#hello{
+    color: rgb(202, 151, 250);
+}
+/*here #idname{color:...}is used only when your id have only alphabets in it*/
+.myclass{
+    color: darkkhaki;
+
+}
+#bodyevn{
+    border-style: dotted;
+}
+#evnh{  font-weight: lighter;
+    
+    font-size:xx-large; text-decoration: blue wavy underline;
+    text-decoration-style: double;
+    text-align: center;
+}
+#evn{
+    font-size: 30px;
+    text-transform: capitalize;
+    line-height:110%;
+    font-family: cursive;
+    text-align: left;
+}
+a{
+    text-decoration: none ;
+}
+
+body{
+    background-image: url(weather-05.webp) ;
+        background-size: 2000px 800px;
+}
+.link{
+    color: white;
+}
+#her{
+    font-size: xx-large;
+    font-family: cursive;
+    color:white;
+}
+#herlink{ font-size: x-large;
+    padding: 1%;
+    padding-right:1% ;
+}
+#written{
+    font-size: xx-large;
+    font-style: italic;
+    margin-left: 30%;
+}
+#headingher{
+    font-size: 40px;
+}
+
+
+.devuclass{
+
+    width: 30%;
+    height: 30;
+    display: flex ;
+    gap: 5px;
+}
+.devuclass img{
+    width: 10%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+    border: 2px solid white;
+    transition: all ease 0.5;
+    cursor: pointer;
+}
+.devuclass img:hover{
+    width: 50%;
+    height: 50%;
+
+}
+
+#hello{
+    font-size: xx-large;
+    color: black;
+}

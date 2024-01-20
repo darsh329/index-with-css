@@ -1,8 +1,11 @@
 h1{color: brown;}
-h2{color: blanchedalmond;}
+h2{color: blanchedalmond;
+   text-align: center;
+    text-transform: capitalize;}
 button{
-    color:white;
-    background-color: transparent ;
+    color: black;
+    background-color: white ;
+    border-radius: 50%;
 }
 body{
     background-color:#C587A0;
